@@ -1,4 +1,3 @@
-
 🎬 CineSage
 
 AI-powered Movie Information Extraction System built using LangChain and Mistral AI.
